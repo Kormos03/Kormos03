@@ -45,8 +45,6 @@ I'm Kormos Áron, a passionate Software Developer and an aspiring Security Resea
 - Future plans include focusing on pentesting or malware analysis, while also practicing software development.
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
 - Email: aronkormos@gmail.com
 
 Feel free to explore my repositories and connect with me. Let's build something amazing together!
