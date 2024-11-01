@@ -1,11 +1,12 @@
 # Hi there! 👋
 
-I'm **Kormos Áron**, a passionate Software Developer and an aspiring Security Researcher currently in the learning phase. I have a keen interest in building robust and secure applications, and I'm constantly exploring new technologies and security practices to enhance my skills.
+I'm **Kormos Áron**, a passionate Software Developer and an aspiring Security Researcher currently in the learning phase. I have a keen interest in building robust and secure applications, and I'm constantly exploring new technologies and security practices to enhance my skills. I'm learning hardware like **esp32** and software technologies. 
 
 ## About Me
-- 💻 **Software Development**: I enjoy crafting clean, efficient, and scalable code. My experience spans across various programming languages and frameworks, including JavaScript, Python, and React.
-- 🔒 **Security Research**: As a budding security researcher, I'm dedicated to understanding the intricacies of cybersecurity. I'm particularly interested in web application security, penetration testing, and vulnerability assessment.
+- 💻 **Software Development**: I enjoy crafting clean, efficient, and scalable code. My experience spans across various programming languages and frameworks, including JavaScript,.Net, Python, and React.
+- 🔒 **Security Research**: As a budding security researcher, I'm dedicated to understanding the intricacies of cybersecurity. I'm particularly interested in web application security, penetration testing, and vulnerability assessment and network security.
 - 📚 **Continuous Learning**: I'm a lifelong learner, always eager to expand my knowledge and stay updated with the latest trends in technology and security.
+- Team player
 
 ## What I'm Working On
 - 🌐 **Open Source Projects**: Contributing to open source projects to give back to the community and collaborate with other developers.
@@ -14,9 +15,9 @@ I'm **Kormos Áron**, a passionate Software Developer and an aspiring Security R
 
 ## Skills
 - **Programming & Development**: React, Bootstrap, NestJs, MySQL, Typescript, Figma, Prisma, Docker, .Net 8
-- **Operating Systems & Tools**: Windows, Kali Linux, Burp Suite, Nmap, Metasploit, Sqlmap, Bash
+- **Operating Systems & Tools**: Windows, Kali Linux, Burp Suite, Nmap, Metasploit, Sqlmap, Bash, Gobuster, Hashcat, John the ripper, Wireshark, basic exploits
 - **Networking**: Network protocols and security
-- **Artificial Intelligence**: ChatGPT, GitHub Copilot
+- **Artificial Intelligence**: ChatGPT, GitHub Copilot, ollama machines
 - **Languages**: Intermediate English proficiency
 
 ## Professional Experience
@@ -34,15 +35,15 @@ I'm **Kormos Áron**, a passionate Software Developer and an aspiring Security R
 - 🎓 **Professional Maturity Exam** | Szent Benedek Budapest Branch (2022)
 
 ## Projects
-- **Körmös Projekt** ([katus-nail-artist.hu](http://katus-nail-artist.hu))
-  - Technologies: React, Bootstrap, NestJs, MySQL, Typescript, Figma, Prisma, Docker
+- **Körmös Projekt** ([Nail Salon Dynamic website](https://github.com/IKT_KormosProjekt))
+  - Technologies: React, Bootstrap, NestJs, MySQL, Typescript, Figma, Prisma, Docker, React, SQLite,
 - **Pentest Webapp** ([Kormos03/pentest_webapp_by_aron_new](https://github.com/Kormos03/pentest_webapp_by_aron_new))
   - Web application development for penetration testing.
 
 ## Hobbies and Interests
 - 💡 Passionate about expanding my IT knowledge and learning new technologies.
 - 🔐 Dedicated to cybersecurity practices and continuous learning.
-- 🎯 Future plans include focusing on pentesting or malware analysis, while also practicing software development.
+- 🎯 Future plans include focusing on pentesting or malware analysis, while also practicing software and hardware development.
 
 ## Get in Touch
 - 📧 Email: aronkormos@gmail.com
@@ -53,5 +54,6 @@ Feel free to explore my repositories and connect with me. Let's build something 
 
 Kormos Áron
 Penetration Tester & Software Developer | [github.com/Kormos03](https://github.com/Kormos03)
+([LinkedIn](https://www.linkedin.com/in/%C3%A1ron-kormos-4111a2330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 📍 Budapest
 📞 +36 20 999 9014
