@@ -35,7 +35,7 @@ I'm **Kormos Áron**, a passionate Software Developer and an aspiring Security R
 - 🎓 **Professional Maturity Exam** | Szent Benedek Budapest Branch (2022)
 
 ## Projects
-- **Körmös Projekt** ([Nail Salon Dynamic website](https://github.com/IKT_KormosProjekt))
+- **Körmös Projekt** ([Nail Salon Dynamic website](https://github.com/Kormos03/IKT_KormosProjekt))
   - Technologies: React, Bootstrap, NestJs, MySQL, Typescript, Figma, Prisma, Docker, React, SQLite,
 - **Pentest Webapp** ([Kormos03/pentest_webapp_by_aron_new](https://github.com/Kormos03/pentest_webapp_by_aron_new))
   - Web application development for penetration testing.
